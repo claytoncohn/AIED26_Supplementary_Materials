@@ -14,6 +14,7 @@ If using this manuscript or repo in your work, please provide the following attr
 
 Cohn, C., Guo, S., Rayala, S., Wang, H.D., Mohammed, N., Timalsina, U., Jain, S., Eeds, A., Deweese, M., Osborn Popp, P.J., Stanton, R., Walker, S., Ma, M., & Biswas, G. (2026). Evidence-Decision-Feedback: Theory-Driven Adaptive Scaffolding for LLM Agents. In Proceedings of the 27th International Conference on Artificial Intelligence in Education (AIED). Springer.
 
+```
 @inproceedings{cohn2026edf,
   title     = {Evidence-Decision-Feedback: Theory-Driven Adaptive Scaffolding for LLM Agents},
   author    = {Cohn, Clayton and Guo, Siyuan and Rayala, Surya and Wang, Hanchen David and Mohammed, Naveeduddin and Timalsina, Umesh and Jain, Shruti and Eeds, Angela and Deweese, Menton and Osborn Popp, Pamela J. and Stanton, Rebekah and Walker, Shakeera and Ma, Meiyi and Biswas, Gautam},
@@ -21,3 +22,4 @@ Cohn, C., Guo, S., Rayala, S., Wang, H.D., Mohammed, N., Timalsina, U., Jain, S.
   year      = {2026},
   organization = {Springer}
 }
+```
